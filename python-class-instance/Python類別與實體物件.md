@@ -1,4 +1,4 @@
-## Python 類別的定義與使用 - Class Attributes
+## 關於Python 類別的定義與使用 - Class Attributes
 > 封裝的變數或函式，統稱 *類別的屬性*  
 > 要先定義類別，才能使用類別中封裝的屬性
 ### 基本語法
@@ -23,7 +23,7 @@ Test.x+3   #取得屬性 x的資料
 Test.say() #呼叫屬性 say函式
 ```
 
-## Python 實體物件的建立與使用 - 實體屬性 Instance Attributes
+## 關於Python 實體物件的建立與使用 - 實體屬性 Instance Attributes
 > 封裝在實體物件中的變數  
 > 使用類別建立實體物件並操作實體屬性  
 ### 基本語法
@@ -67,7 +67,7 @@ p=Point(1,5)
 print(p.x+p.y) #印出 6
 ```
 
-## Python 實體物件的建立與使用 - 實體方法 Instance Methods
+## 關於Python 實體物件的建立與使用 - 實體方法 Instance Methods
 > 封裝在實體物件中的函式
 ### 基本語法
 #### 建立方法
